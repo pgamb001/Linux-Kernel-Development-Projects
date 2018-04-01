@@ -1,0 +1,2 @@
+obj-y += sys_cancel_rsv.o
+obj-y += sys_wait_until_next_period.o
